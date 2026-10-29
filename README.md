@@ -1,4 +1,4 @@
-# Python Quiz Game
+# PYTHON QUIZE GAME
 
 ## About
 This is a simple quiz game built using Python. It asks multiple-choice questions and checks the user's answers.
