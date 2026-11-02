@@ -10,7 +10,7 @@ This is a simple quiz game built using Python. It asks multiple-choice questions
 - Displays the correct answer for wrong responses
 
 ## Technologies Used
-- Python
+- PYTHON
 
 ## How to Run
 1. Install Python.
